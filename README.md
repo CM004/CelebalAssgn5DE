@@ -18,18 +18,17 @@ The main tasks are:
 ---
 
 ## 🏗️ Project Structure
-Assgn5/
+Assgn5
 ├── export_all_tables.py
 ├── copy_to_another_db.py
 ├── selective_transfer.py
 ├── pipeline_scheduler.py
 ├── sakila-data-clean.sql     ← Cleaned data file without stored procedures
-├── output/
-│   ├── csv/
-│   ├── parquet/
-│   └── avro/
+├── output
+│   ├── csv
+│   ├── parquet
+│   └── avro
 ├── README.md   
-
 ---
 
 ## 🔧 Tools & Technologies Used
