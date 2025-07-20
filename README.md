@@ -1,7 +1,5 @@
-# 📦 Assignment 5: Data Integration & Pipeline Automation
-
-## 👨‍💻 Project by: Chandramohan  
-## 🗓️ Date: 22 June 2025  
+# 📦 Data Integration & Pipeline Automation
+ 
 
 ---
 
